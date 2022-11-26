@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "name": "Product 1",
+      "price": 100,
+      "description": "This is product 1",
+      "available": true,
+      "id": 1
+    },
+    {
+      "name": "Product 2",
+      "price": 200,
+      "description": "This is product 2",
+      "available": false,
+      "id": 2
+    },
+    {
+      "name": "asd",
+      "description": "das",
+      "price": "123",
+      "available": false,
+      "id": 3
+    },
+    {
+      "name": "produto 4",
+      "description": "testando 4",
+      "price": "400",
+      "available": true,
+      "id": 4
+    },
+    {
+      "name": "produto 5",
+      "description": "desc produto 5",
+      "price": "500",
+      "available": false,
+      "id": 5
+    },
+    {
+      "name": "produto 6",
+      "description": "desc produto 6",
+      "price": "600",
+      "available": true,
+      "id": 6
+    },
+    {
+      "name": "produto 7",
+      "description": "desc 7",
+      "price": "700",
+      "available": false,
+      "id": 7
+    },
+    {
+      "name": "produto 8",
+      "description": " desc 8",
+      "price": "800",
+      "available": false,
+      "id": 8
+    }
+  ]
+}
